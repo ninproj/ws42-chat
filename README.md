@@ -20,6 +20,7 @@ Install heroku toolbelt
 8. heroku labs:enable websockets
 9. heroku run rake
 10. changing the time zone to new york 
+
     heroku config:add TZ="America/New_York"
 
 
