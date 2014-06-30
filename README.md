@@ -14,6 +14,7 @@ Install heroku toolbelt
 2. Cd to project folder
 3. git init
 4. git add .
+5. git commit -m "add message here"
 5. heroku login
 6. heroku create
 7. git push heroku master
